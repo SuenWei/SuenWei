@@ -22,7 +22,10 @@
           <td>連絡電話</td>
           <td>0955598962</td>
      </tr>
-     
+     <tr>
+          <td>電子郵件</td>
+          <td>asps5712@gmail.com</td>
+     </tr>
 </table>
 
 

@@ -1,32 +1,30 @@
 
 <html>
 <body>
-<h3>兩百字內的個人簡介</h3>
-<h3>基本資料</h3> 
-<table>
-     <tr>
-          <td>姓名</td>
-          <td>孫維政(SuenWei)</td>
-     </tr>
-     <tr>
+     <h3>兩百字內的個人簡介</h3>
+     <h3>基本資料</h3> 
+     <table>
+          <tr>
+               <td>姓名</td>
+               <td>孫維政(SuenWei)</td>
+          </tr>
+          <tr>
           <td>出生日期</td>
           <td>81年01月24日</td>
-     </tr>
-     <tr>
+          </tr>
+          <tr>
           <td>連絡住址</td>
           <td>台南市安南區安吉路一段240號</td>
-     </tr>       
-     <tr>
+          </tr>
+          <tr>
           <td>連絡電話</td>
           <td>0955598962</td>
-     </tr>
-     <tr>
+          </tr>
+          <tr>
           <td>電子郵件</td>
           <td>asps5712@gmail.com</td>
-     </tr>
-</table>
-
-
+          </tr>
+     </table>
 學歷：嘉義大學生物農業科技系 學士畢業
      嘉義大學生物農業科技系 碩士畢業
 經歷：國家衛生研究院 研究助理

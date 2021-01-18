@@ -6,8 +6,23 @@
           <td>姓名</td>
           <td>孫維政(SuenWei)</td>
      </tr>
-          <td></td>
-          <td></td>
+     <tr>
+          <td>出生日期</td>
+          <td>81年01月24日</td>
+     </tr>
+     <tr>
+          <td>連絡住址</td>
+          <td>台南市安南區安吉路一段240號</td>
+     </tr>     
+     <tr>
+          <td>姓名</td>
+          <td>孫維政(SuenWei)</td>
+     </tr>     
+     <tr>
+          <td>連絡電話</td>
+          <td>0955598962</td>
+     </tr>
+     
 </table>
 
 
